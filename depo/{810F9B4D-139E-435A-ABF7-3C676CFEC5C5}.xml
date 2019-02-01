@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2019/01/24" author="e.World Technology Ltd.">
+  <project id="{810F9B4D-139E-435A-ABF7-3C676CFEC5C5}" file="D:\Document_Works\PHP Maker\Depo\depo.pmp" name="depo" product="PHPMaker" version="14.0" datetime="2019/01/24 13:11:06" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0">
+    <table id="employees" name="employees" caption="User List" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_armada" name="tbl_armada" caption="Tabel Kendaraan" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_bank" name="tbl_bank" caption="Daftar Rekening Bank" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_customer" name="tbl_customer" caption="Daftar Pelanggan" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_salesman" name="tbl_salesman" caption="Daftar Sales" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_inv_canvas_item" name="tr_inv_canvas_item" caption="Faktur Detail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_inv_canvas_master" name="tr_inv_canvas_master" caption="Faktur Penjualan Canvas" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_inv_item" name="tr_inv_item" caption="Faktur Detail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_inv_master" name="tr_inv_master" caption="Faktur Penjualan" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_pb_item" name="tr_pb_item" caption="Item List" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_pb_master" name="tr_pb_master" caption="Permintaan Barang ke PPU" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_retc_item" name="tr_retc_item" caption="Retur Detail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_retc_master" name="tr_retc_master" caption="Retur Canvas" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_retp_item" name="tr_retp_item" caption="Retur Detail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_retp_master" name="tr_retp_master" caption="Retur ke PPU" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_sjc_item" name="tr_sjc_item" caption="Detail Surat Jalan" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_sjc_master" name="tr_sjc_master" caption="Surat Jalan Canvas" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="userlevelpermissions" name="userlevelpermissions" caption="userlevelpermissions" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="userlevels" name="userlevels" caption="userlevels" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_callarea" name="tbl_callarea" caption="tbl callarea" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_category" name="tbl_category" caption="tbl category" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_depo" name="tbl_depo" caption="tbl depo" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_number" name="tbl_number" caption="tbl number" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_products" name="tbl_products" caption="Daftar Produk" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_subwilayah" name="tbl_subwilayah" caption="tbl subwilayah" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_transaksi" name="tbl_transaksi" caption="tbl transaksi" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_units" name="tbl_units" caption="tbl units" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_unit_detail" name="tbl_unit_detail" caption="Satuan dan Harga" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_wilayah" name="tbl_wilayah" caption="tbl wilayah" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_sjd_item" name="tr_sjd_item" caption="Detail Surat Jalan" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_sjd_master" name="tr_sjd_master" caption="Penerimaan Barang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tbl_supplier" name="tbl_supplier" caption="tbl supplier" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_ret_item" name="tr_ret_item" caption="Retur Detail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_ret_master" name="tr_ret_master" caption="Retur Penjualan" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="view_products_unit_price" name="view_products_unit_price" caption="view products unit price" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_km_item_ar" name="tr_km_item_ar" caption="Faktur Detail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_km_master_ar" name="tr_km_master_ar" caption="Pelunasan Piutang Depo" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_km_item_ar2" name="tr_km_item_ar2" caption="Faktur Detail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="tr_km_master_ar2" name="tr_km_master_ar2" caption="Pelunasan Piutang Canvas" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+  </project>
+</configuration>

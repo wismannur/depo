@@ -1,0 +1,195 @@
+@media (min-width: 768px) and (min-width: 992px) {
+    .ewForm:not(.ewListForm):not(.ewPagerForm), table.ewMasterTable.ewVertical {
+        width: 100% !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .ewForm:not(.ewListForm):not(.ewPagerForm), table.ewMasterTable.ewVertical {
+        width: 100% !important;
+    }
+    .tittle {
+        text-align: right;
+    }
+}
+
+@media (max-width: 768px) {
+    .tittle {
+        text-align: left;
+    }
+}
+
+.tittle {
+    padding-top: 7px;
+    font-weight: bold;
+    padding-right: 0px !important;
+}
+
+.panel-custom {
+    background-color: #fff;
+	border: 1px solid transparent;
+    border-radius: 4px;
+    border-color: #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.field-br {
+	margin-bottom: 10px;
+}
+
+.ewGrid {
+    width: 100%;
+}
+
+.col-sm-9 input {
+    width: 100%;
+}
+
+.twitter-typeahead {
+    width: 100%;
+}
+
+.col-sm-8 > span {
+    width: 100%;
+}
+
+.col-sm-8 > span > input {
+    width: 100%;
+}
+
+.form-checkbox {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    display: inline-block;
+    position: relative;
+    background-color: #f1f1f1;
+    color: #666;
+    top: 10px;
+    height: 30px;
+    width: 30px;
+    border: 0;
+    border-radius: 7px;
+    cursor: pointer;     
+    margin-right: 7px;
+    outline: none;
+    border: 1px solid #ccc;
+    top: 0px;
+    margin: 0px !important;
+}
+.form-checkbox:checked::before {
+    position: absolute;
+    font: 13px/1 'Open Sans', sans-serif;
+    left: 11px;
+    top: 7px;
+    content: '\02143';
+    transform: rotate(40deg);
+}
+.form-checkbox:hover {
+    background-color: #f7f7f7;
+}
+.form-checkbox:checked {
+    background-color: #f1f1f1;
+}
+
+/* this below is start for style scrollbar */
+/* Let's get this party started */
+::-webkit-scrollbar {
+    width: 9px;
+    height: 9px;
+}
+ 
+/* Track */
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+    background: #F39C12; 
+}
+::-webkit-scrollbar-thumb:window-inactive {
+	background: #F39C12; 
+}
+/* this is end for style scrollbar */
+
+.btn-print {
+    margin-top: -77px;
+    min-width: 75px;
+}
+
+.form-disabled {
+    cursor: not-allowed;
+}
+
+.custom-width-1 {
+    width: 29%;
+    position: relative;
+    float: left;
+    margin: 0px;
+}
+
+.custom-width-2 {
+    width: 29%;
+    position: relative;
+    float: left;
+    margin: 0px;
+}
+
+.custom-width-3 {
+    width: 13%;
+    position: relative;
+    float: left;
+    margin: 0px;
+}
+
+.custom-width-4 {
+    width: 29%;
+    position: relative;
+    float: left;
+    margin: 0px;
+    padding: 0 20px 0 0;
+}
+
+.nav-username {
+    float: left;
+    margin-top: 13px;
+    margin-right: 5px;
+    font-size: 15px;
+    color: #fff;
+}
+
+.nav-title {
+    margin: 0px 10px -35px 45px;
+    font-size: 20px;
+    padding-top: 13px;
+    color: #fff;
+}
+
+.detail-list {
+    padding: 6px 15px 6px 15px;
+    border: 1px solid #ddd;
+    font-size: 11px;
+    line-height: 27px;
+    background: #f4f4f4;
+}
+
+.custom-width-pbmaster-1 {
+    float: left;
+    position: relative;
+    padding: 0 15px 0 25px;
+    width: 22%;
+}
+
+.custom-width-pbmaster-2 {
+    float: left;
+    position: relative;
+    padding: 0 15px 0 15px;
+    width: 53%;
+}

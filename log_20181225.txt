@@ -1,0 +1,7 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2018/12/25 07:52:12	/depo/logout.php	02-admin	logout	::1				
+2018/12/25 07:56:56	/depo/login.php	02-admin	login	::1				
+2018/12/25 10:25:38	/depo/logout.php	02-admin	logout	::1				
+2018/12/25 10:27:45	/depo/login.php	02-admin	login	::1				
+2018/12/25 10:28:29	/depo/logout.php	02-admin	logout	::1				
+2018/12/25 10:31:05	/depo/login.php	02-admin	login	::1				
